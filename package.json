@@ -1,0 +1,21 @@
+{
+    "name": "tw-ahmeddev",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "alssqr7740saudi@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Alssqr2024/tw-ahmeddev"
+    },
+    "private": true
+}
